@@ -1,0 +1,10 @@
+* cl-tetris3d
+
+Yet another 3D Tetris clone
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/grouzen/cl-tetris3d.git   |
+| commit  | 0abcfca  |
+| systems | cl-tetris3d |
+|---------+-------------------------------------------|
+
